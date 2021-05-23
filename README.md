@@ -1,4 +1,6 @@
-### Hi there, I'm Balayogi G 👋
+# Hi there, I'm Balayogi G 👋
+
+
 
 <!--
 **BalayogiG/BalayogiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
