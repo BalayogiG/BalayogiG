@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Balayogi G
 
+<center>
+
 🎓 Researcher | 💡 Innovator | 🖥️ Developer  
 
 A interdisciplinary enthusiast in the field of Computer Science, exploring the simulation of biological learning.
+
+</center>
 
 ---
 
