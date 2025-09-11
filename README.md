@@ -1,7 +1,7 @@
 <div align="center">
 <h1> 👋 Hi, I'm Balayogi G </h1>
 🎓 Researcher | 💡 Innovator | 🖥️ Developer  
-<h2>A interdisciplinary enthusiast in the field of Computer Science, exploring the simulation of biological learning.</h2>
+<h2>A interdisciplinary enthusiast in the field of Computer Science, exploring the Conversational AI Evaluation.</h2>
 </div>
 
 ---
