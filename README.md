@@ -1,10 +1,10 @@
 <p align="center">
 
-# 👋 Hi, I'm Balayogi G
+<h1> 👋 Hi, I'm Balayogi G </h1>
 
 🎓 Researcher | 💡 Innovator | 🖥️ Developer  
 
-## A interdisciplinary enthusiast in the field of Computer Science, exploring the simulation of biological learning.
+<h2>A interdisciplinary enthusiast in the field of Computer Science, exploring the simulation of biological learning.</h2>
 
 </p>
 
