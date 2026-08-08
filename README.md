@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/balayogig">
   <img src="assets/linkedin-badge.svg" />
 </a>
+<a href="https://scholar.google.com/citations?user=i1MNebQAAAAJ&hl=en">
+  <img src="assets/scholar-badge.svg" />
+</a>
 
 </div>
 
