@@ -1,0 +1,32 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+
+    <!-- Research -->
+    <rect x="0" y="0" width="380" height="150" rx="14" fill="#161B22" stroke="#21262D" stroke-width="1.5"/>
+    <text x="24" y="44" font-size="26">🎓</text>
+    <text x="64" y="44" font-size="21" font-weight="700" fill="#4ADE80">Research</text>
+    <text x="24" y="80" font-size="15" fill="#8B949E">
+      <tspan x="24" dy="0">Exploring Conversational AI</tspan>
+      <tspan x="24" dy="22">Evaluation through applied study.</tspan>
+    </text>
+
+    <!-- Innovation -->
+    <rect x="410" y="0" width="380" height="150" rx="14" fill="#161B22" stroke="#21262D" stroke-width="1.5"/>
+    <text x="434" y="44" font-size="26">💡</text>
+    <text x="474" y="44" font-size="21" font-weight="700" fill="#FBBF24">Innovation</text>
+    <text x="434" y="80" font-size="15" fill="#8B949E">
+      <tspan x="434" dy="0">Turning research ideas into</tspan>
+      <tspan x="434" dy="22">practical, usable AI tools.</tspan>
+    </text>
+
+    <!-- Development -->
+    <rect x="820" y="0" width="380" height="150" rx="14" fill="#161B22" stroke="#21262D" stroke-width="1.5"/>
+    <text x="844" y="44" font-size="26">🖥️</text>
+    <text x="884" y="44" font-size="21" font-weight="700" fill="#7DD3FC">Development</text>
+    <text x="844" y="80" font-size="15" fill="#8B949E">
+      <tspan x="844" dy="0">Building software that bridges</tspan>
+      <tspan x="844" dy="22">research and real-world use.</tspan>
+    </text>
+
+  </g>
+</svg>

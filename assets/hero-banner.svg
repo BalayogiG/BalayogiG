@@ -1,0 +1,72 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- decorative abstract graphic, right side -->
+  <g stroke="url(#lineGrad)" stroke-width="1.5" fill="none">
+    <line x1="800" y1="90" x2="900" y2="60"/>
+    <line x1="900" y1="60" x2="1010" y2="100"/>
+    <line x1="900" y1="60" x2="940" y2="160"/>
+    <line x1="940" y1="160" x2="1050" y2="150"/>
+    <line x1="940" y1="160" x2="860" y2="230"/>
+    <line x1="1050" y1="150" x2="1120" y2="200"/>
+    <line x1="860" y1="230" x2="960" y2="280"/>
+  </g>
+  <g fill="#38BDF8">
+    <circle cx="800" cy="90" r="5" opacity="0.8"/>
+    <circle cx="900" cy="60" r="6" opacity="0.9"/>
+    <circle cx="1010" cy="100" r="4" opacity="0.7"/>
+    <circle cx="940" cy="160" r="7" fill="#8B5CF6" opacity="0.9"/>
+    <circle cx="1050" cy="150" r="4" opacity="0.7"/>
+    <circle cx="1120" cy="200" r="5" opacity="0.8"/>
+    <circle cx="860" cy="230" r="5" fill="#F59E0B" opacity="0.85"/>
+    <circle cx="960" cy="280" r="4" opacity="0.7"/>
+  </g>
+
+  <!-- speech bubble motif -->
+  <rect x="1000" y="230" width="130" height="60" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+  <circle cx="1030" cy="260" r="4" fill="#8B5CF6"/>
+  <circle cx="1055" cy="260" r="4" fill="#38BDF8"/>
+  <circle cx="1080" cy="260" r="4" fill="#F59E0B"/>
+  <path d="M1015 290 l-12 16 l24 -6 z" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- code bracket motif -->
+  <text x="790" y="220" font-family="ui-monospace, Menlo, monospace" font-size="30" fill="#8B5CF6" opacity="0.85">&lt;/&gt;</text>
+
+  <!-- headline text -->
+  <text x="60" y="85" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#C9D1D9">
+    <tspan>👋 Hi, I'm</tspan>
+  </text>
+  <text x="58" y="150" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#nameGrad)">
+    Balayogi G
+  </text>
+
+  <!-- role pills -->
+  <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">
+    <rect x="60" y="180" width="172" height="38" rx="19" fill="#132318" stroke="#22C55E" stroke-width="1.2"/>
+    <text x="80" y="205" fill="#4ADE80">🎓 Researcher</text>
+
+    <rect x="244" y="180" width="158" height="38" rx="19" fill="#2A2110" stroke="#F59E0B" stroke-width="1.2"/>
+    <text x="264" y="205" fill="#FBBF24">💡 Innovator</text>
+
+    <rect x="414" y="180" width="164" height="38" rx="19" fill="#0F2333" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="434" y="205" fill="#7DD3FC">🖥️ Developer</text>
+  </g>
+
+  <!-- tagline -->
+  <text x="60" y="258" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#8B949E">
+    <tspan x="60" dy="0">Exploring the evaluation of Conversational AI through</tspan>
+    <tspan x="60" dy="28">interdisciplinary research and applied development.</tspan>
+  </text>
+</svg>
