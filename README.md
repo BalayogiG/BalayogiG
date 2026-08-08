@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/balayogig">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=161B22" />
+  <img src="assets/linkedin-badge.svg" />
 </a>
 
 </div>
