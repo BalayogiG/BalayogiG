@@ -40,7 +40,7 @@
 <div align="center">
 
 <img src="profile-summary-card-output/github_dark/3-stats.svg" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=BalayogiG&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
+<img src="assets/streak-stats.svg" height="165"/>
 
 </div>
 
